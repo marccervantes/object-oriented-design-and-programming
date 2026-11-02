@@ -11,6 +11,7 @@ This course focuses on object-oriented programming principles, software design, 
 | Assignment | Description | Link |
 |------------|-------------|------|
 | PEC 1 | Introduction to Object-Oriented Programming | [View PEC 1](./PEC1/PEC1-planteamiento-y-competencias.md) |
+| PEC 2 | Introduction to Object-Oriented Programming | [View PEC 2](./PEC2/PEC2-planteamiento-y-competencias.md) |
 
 ## 🛠️ Technologies
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac2.SampleLabelFormatterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-25T18:04:02.646Z" hostname="IRON-3" time="0.083">
+  <properties/>
+  <testcase name="isValidSampleCode" classname="edu.uoc.pac2.SampleLabelFormatterTest" time="0.027"/>
+  <testcase name="isValidSampleType" classname="edu.uoc.pac2.SampleLabelFormatterTest" time="0.001"/>
+  <testcase name="calculateCheckDigit" classname="edu.uoc.pac2.SampleLabelFormatterTest" time="0.008"/>
+  <testcase name="buildLabel" classname="edu.uoc.pac2.SampleLabelFormatterTest" time="0.015"/>
+  <testcase name="buildBatchLabels" classname="edu.uoc.pac2.SampleLabelFormatterTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

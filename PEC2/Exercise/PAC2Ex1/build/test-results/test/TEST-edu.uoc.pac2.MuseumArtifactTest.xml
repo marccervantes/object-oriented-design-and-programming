@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac2.MuseumArtifactTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2026-10-25T17:57:30.994Z" hostname="IRON-3" time="0.176">
+  <properties/>
+  <testcase name="testObjectsHaveIndependentState()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.045"/>
+  <testcase name="testCategoryAndConservationStatusValidation()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.018"/>
+  <testcase name="testOriginCountryValidation()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.003"/>
+  <testcase name="testInspectionTimingAndInvalidDates()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.003"/>
+  <testcase name="testInspectionDateValidation()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.003"/>
+  <testcase name="testLoanRequestArrayValidator()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.007"/>
+  <testcase name="testConstructorUsesSetterValidation()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.01"/>
+  <testcase name="testAcquisitionDateValidation()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.005"/>
+  <testcase name="testConstructorAndGetters()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.011"/>
+  <testcase name="testLoanConditionsAndInvalidDates()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.003"/>
+  <testcase name="testHighValueAndRisk()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.002"/>
+  <testcase name="testReferenceDateAndLoanDayValidators()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.01"/>
+  <testcase name="testTitleAndCreatorValidation()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.003"/>
+  <testcase name="testInsuranceCostAndInvalidDuration()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.002"/>
+  <testcase name="testFieldsFollowUml()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.003"/>
+  <testcase name="testValueAndBooleanSetters()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.006"/>
+  <testcase name="testInventoryCodeValidation()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

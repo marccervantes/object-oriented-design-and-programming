@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac2.MuseumArtifactTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-24T16:59:48.912Z" hostname="IRON-3" time="0.109">
+  <properties/>
+  <testcase name="testReferenceDateExceptions()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.04"/>
+  <testcase name="testSingleLoanRequestExceptions()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.005"/>
+  <testcase name="testCodeAndCountrySetterExceptions()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.004"/>
+  <testcase name="testStatisticsElementAndDateExceptions()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.008"/>
+  <testcase name="testTextSetterExceptions()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.003"/>
+  <testcase name="testDateAndValueSetterExceptions()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.005"/>
+  <testcase name="testStatisticsArrayExceptions()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.005"/>
+  <testcase name="testCategoryAndStatusSetterExceptions()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.003"/>
+  <testcase name="testConstructorExceptions()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.002"/>
+  <testcase name="testInsuranceDurationExceptions()" classname="edu.uoc.pac2.MuseumArtifactTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

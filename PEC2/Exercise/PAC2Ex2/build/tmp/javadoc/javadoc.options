@@ -1,0 +1,8 @@
+-private 
+-classpath 'D:\\UOC\\Diseño y programación orientada a objetos\\PEC 2\\Exercici\\Code\\DPOO_PAC2\\DPOO_PAC2\\PAC2Ex2\\build\\classes\\java\\main;D:\\UOC\\Diseño y programación orientada a objetos\\PEC 2\\Exercici\\Code\\DPOO_PAC2\\DPOO_PAC2\\PAC2Ex2\\build\\resources\\main'
+-quiet 
+-d 'D:\\UOC\\Diseño y programación orientada a objetos\\PEC 2\\Exercici\\Code\\DPOO_PAC2\\DPOO_PAC2\\PAC2Ex2\\build\\docs\\javadoc'
+-windowtitle 'PAC2Ex2 1.0-SNAPSHOT API'
+-doctitle 'PAC2Ex2 1.0-SNAPSHOT API'
+-notimestamp 
+'D:\\UOC\\Diseño y programación orientada a objetos\\PEC 2\\Exercici\\Code\\DPOO_PAC2\\DPOO_PAC2\\PAC2Ex2\\src\\main\\java\\edu\\uoc\\pac2\\MuseumArtifact.java'
