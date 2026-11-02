@@ -2,7 +2,7 @@
 
 **Asignatura:** 75.564 - Diseño y programación orientada a objetos - Aula 4  
 **Periodo:** 20261  
-**Fuente:** [Página del aula UOC](https://aula.uoc.edu/courses/94216/pages/planteamiento-y-competencias-pec1?module_item_id=3319055)
+**Enunciado:** [Aquí](./PEC1_20261_IB.pdf)
 
 ## Información del reto
 
